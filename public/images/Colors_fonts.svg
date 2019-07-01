@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Colors_fints);
+      }
+
+      .cls-2, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #7b3200;
+      }
+
+      .cls-3 {
+        fill: #999c94;
+      }
+
+      .cls-12, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-5, .cls-6, .cls-8, .cls-9 {
+        font-size: 31px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        font-size: 37px;
+      }
+
+      .cls-8 {
+        font-family: WorkSans-Regular, Work Sans;
+      }
+
+      .cls-9 {
+        font-family: WorkSans-SemiBold, Work Sans;
+        font-weight: 600;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Colors_fints">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Colors_fints" data-name="Colors$fints" class="cls-1">
+    <rect class="cls-12" width="1920" height="1080"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="265" height="238" transform="translate(164 127)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-3" width="265" height="238" transform="translate(164 603)"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-4" transform="translate(164 365)">
+      <rect class="cls-10" width="265" height="238"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="264" height="237"/>
+    </g>
+    <text id="_7B3200" data-name="#7B3200" class="cls-5" transform="translate(237 252)"><tspan x="0" y="0">#7B3200</tspan></text>
+    <text id="_FFFFF" data-name="#FFFFF" class="cls-6" transform="translate(237 517)"><tspan x="0" y="0">#FFFFF</tspan></text>
+    <text id="_999C94" data-name="#999C94" class="cls-6" transform="translate(224 729)"><tspan x="0" y="0">#999C94</tspan></text>
+    <text id="Fonts" class="cls-7" transform="translate(502 167)"><tspan x="0" y="0">Fonts</tspan></text>
+    <text id="Work_Sans_-regular" data-name="Work Sans -regular" class="cls-8" transform="translate(502 232)"><tspan x="0" y="0">Work Sans -regular</tspan></text>
+    <text id="Work_Sans_-_Seminold" data-name="Work Sans - Seminold" class="cls-9" transform="translate(502 296)"><tspan x="0" y="0">Work Sans - Seminold</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+@import 'base/base';
+
+.auth-block {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  @include breakpoint(mobile) {
+    height: auto;
+  }
+}
+
+
+.logo-block {
+  justify-content: center;
+  display: flex;
+  img {
+    max-width: 420px;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.auth-form {
+  max-width: 280px;
+  min-height: 200px;
+  margin: 0 auto;
+
+  input {
+    height: 40px;
+    padding: 10px;
+    border: 1px solid $primary-color;
+    color: $primary-color;
+  }
+  .auth-submit-btn {
+    background: $primary-color;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    min-width: 120px;
+    height: 40px;
+    border-radius: 10px;
+  }
+
+  .anticon {
+    height: 40px;
+    background: red;
+    width: 40px;
+    font-size: 26px;
+    padding: 6px;
+    border-radius: 10px;
+    margin: 0 10px;
+    color: white;
+  }
+
+  .anticon-facebook {
+    background: #83B2E9;
+  }
+}
+
+
+
+.banner {
+  background-image: url('/images/custard-apple.jpg');
+  height: 100vh;
+  max-width: 100%;
+  background-size: cover;
+
+  @include breakpoint(mobile) {
+    height: auto;
+    display: none;
+  }
+}
+

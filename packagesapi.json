@@ -1,0 +1,40 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "fruit A",
+      "fm_price": 100,
+      "availabe": true,
+      "image": "image-url",
+      "thumbnail": "thumbnail-url",
+      "desc": " Description about fruit if any"
+    },
+    {"id": 1,
+      "name": "fruit B",
+      "fm_price": 200,
+      "availabe": false,
+      "image": "image-url",
+      "thumbnail": "thumbnail-url",
+      "desc": " Description about fruit if any"
+
+    }
+  ],
+  "packages": [
+    {
+      "type": "Time",
+      "price": 600,
+      "discount_price": 500,
+      "title": "Title of Package ex: 500",
+      "fruits": [1,2], // Id's of fruits
+      "desc": " Description about Package if any"
+    },
+    {
+      "type": "weight",
+      "price": 1600,
+      "discount_price": 1000,
+      "title": "Title of Package ex: 500",
+      "fruits": [1,2], // Id's of fruits
+      "desc": " Description about Package if any"
+    }
+  ]
+}
