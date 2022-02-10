@@ -8,7 +8,7 @@
     "antd": "^3.10.7",
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.7.0-alpha.2",
     "react-burger-menu": "^2.5.4",
     "react-dom": "^16.7.0-alpha.2",
